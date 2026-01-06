@@ -1,0 +1,6 @@
+﻿"number";"statistic";"shots";"goals";"shots_against";"goals_against";"xG";"xGA";"xG_diff";"xGperSh";"xGAperSh"
+1;"Open play";208;20;185;19;22.4;23.92;-1.52;0.11;0.13
+2;"From corner";37;6;33;4;5.54;4.59;0.95;0.15;0.14
+3;"Direct Freekick";11;1;6;0;0.58;0.3;0.28;0.05;0.05
+4;"Set piece";11;0;20;1;0.42;2.76;-2.34;0.04;0.14
+5;"Penalty";5;3;4;3;3.81;3.04;0.76;0.76;0.76
